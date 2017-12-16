@@ -2,3 +2,6 @@
 
 creando per ogni file il file compattato aggiungendo  l'estensione  .compresso
 
+
+se nei file allegati sono presenti alcuni con l'estensione .compresso 
+"scompattare il file" creandone un'altro senza l'estensione
