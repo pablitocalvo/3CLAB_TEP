@@ -1,4 +1,4 @@
-xxxxxxxx
+yyyyyyyyyyyyyyyyyyyyyyyyyyy
 "compattare" i file allegati con l'algoritmo didattico presentato a lezione.
 
 creando per ogni file il file compattato aggiungendo  l'estensione  .compresso
